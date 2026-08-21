@@ -1,0 +1,2 @@
+# qayrix
+    QAYRIX — AI
